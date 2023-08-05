@@ -60,15 +60,12 @@
 <a href="https://www.hackerrank.com/harshyadavgwl201"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=flat-square"/></a>
 <a href="https://leetcode.com/H_rsh001/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&style=flat-square"/></a>
 
-
-
+<!--Image-->
 <img src="./header_.png"></img>
 
-<img  width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
+<img  width=300 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
 
 <p align="left">
-
-
 
 
 # 📊 GitHub Stats:
