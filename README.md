@@ -1,11 +1,12 @@
-![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif)
+<!-- ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png) -->
 
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Electronics+and+Communication+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;A+Beginner+Level;FullStack+Web+Developer;Electronics+and+Communication+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
  </p>
 
