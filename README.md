@@ -90,7 +90,9 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=HarshYadav0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshYadav0&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshYadav0&theme=dark&hide_border=false)<br/>
+
+<!-->
+![]([https://github-readme-streak-stats.herokuapp.com/?user=HarshYadav0&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=HarshYadav0&theme=dark&hide_total_contributions=true)]) <br/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav0&layout=compact&show_icons=true&theme=vision-friendly-dark" />
 
